@@ -15,5 +15,6 @@ This project is coded for development purpose, so it is tested only in developme
 
 ---
 ### How to Run It
+
   1) npm i
   2) npm start
